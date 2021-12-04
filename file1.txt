@@ -1,3 +1,4 @@
 GIT is Awesome!
 
-new line added 
+new line added
+added third line 
